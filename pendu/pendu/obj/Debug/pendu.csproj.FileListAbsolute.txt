@@ -1,0 +1,7 @@
+C:\Users\Stagiaire\source\repos\pendu\pendu\bin\Debug\pendu.exe.config
+C:\Users\Stagiaire\source\repos\pendu\pendu\bin\Debug\pendu.exe
+C:\Users\Stagiaire\source\repos\pendu\pendu\bin\Debug\pendu.pdb
+C:\Users\Stagiaire\source\repos\pendu\pendu\obj\Debug\pendu.csprojAssemblyReference.cache
+C:\Users\Stagiaire\source\repos\pendu\pendu\obj\Debug\pendu.csproj.CoreCompileInputs.cache
+C:\Users\Stagiaire\source\repos\pendu\pendu\obj\Debug\pendu.exe
+C:\Users\Stagiaire\source\repos\pendu\pendu\obj\Debug\pendu.pdb
